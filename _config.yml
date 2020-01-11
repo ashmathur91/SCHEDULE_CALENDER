@@ -1,0 +1,13 @@
+title: R-Programming Learning Layout
+author: Ashwini Mathur
+description: It's simple. It's easy to understand. 
+
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+# Custom options:
+# color_scheme: azul|ruby|amber|avocado
+color_scheme: amber
